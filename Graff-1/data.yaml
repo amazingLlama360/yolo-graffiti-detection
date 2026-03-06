@@ -1,0 +1,12 @@
+names:
+- Graffiti
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: graff-ymab0-b0odn
+  url: https://universe.roboflow.com/suri-e5d1w/graff-ymab0-b0odn/dataset/1
+  version: 1
+  workspace: suri-e5d1w
+test: ../test/images
+train: ../train/images
+val: ../valid/images

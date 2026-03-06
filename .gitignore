@@ -1,0 +1,33 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Video/image files
+*.mov
+*.mp4
+*.avi
+*.jpg
+*.png
+*.jpeg
+
+# Model weights (can be large)
+*.pt
+*.pth
+runs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Datasets
+datasets/
+data/
